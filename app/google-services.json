@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789126285860",
+    "project_id": "i-ruta",
+    "storage_bucket": "i-ruta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789126285860:android:cd359f802828d74c2c66b1",
+        "android_client_info": {
+          "package_name": "com.psp.i_rutacliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789126285860-es12tms4kb4muf0d56gnmdvbtftj8bhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Qwi7GIc77Z3Gbg7mIFXFgkHxOqa71CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789126285860-es12tms4kb4muf0d56gnmdvbtftj8bhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

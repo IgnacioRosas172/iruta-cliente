@@ -163,7 +163,7 @@
                     android:layout_width="1in"
                     android:layout_height="1in"
                     android:layout_margin="5dp"
-
+                    android:src="@drawable/busr13"
                     android:elevation="3dp"
                     />
 
@@ -176,7 +176,7 @@
                     android:textStyle="bold"
                     android:layout_gravity="center"
                     android:textColor="@color/white"
-                    android:text="This Is Vertical ScrollView"/>
+                    android:text="Colonia Vicente Guerrero - Av. xalapa - Centro"/>
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
@@ -190,7 +190,7 @@
                     android:layout_width="1in"
                     android:layout_height="1in"
                     android:layout_margin="5dp"
-
+                    android:src="@drawable/busr23"
                     android:elevation="3dp"
 
                     />
@@ -204,7 +204,7 @@
                     android:textStyle="bold"
                     android:layout_gravity="center"
                     android:textColor="@color/white"
-                    android:text="This Is Vertical ScrollView"/>
+                    android:text="Bugambilias - Zona UV - El Haya"/>
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
@@ -218,7 +218,7 @@
                     android:layout_width="1in"
                     android:layout_height="1in"
                     android:layout_margin="5dp"
-
+                    android:src="@drawable/busr44"
                     android:elevation="3dp"
 
                     />
@@ -232,7 +232,7 @@
                     android:textStyle="bold"
                     android:layout_gravity="center"
                     android:textColor="@color/white"
-                    android:text="This Is Vertical ScrollView"/>
+                    android:text="Centro - Av. Xalapa - Vasconcelos - Homex"/>
             </androidx.cardview.widget.CardView>
 
         </LinearLayout>
